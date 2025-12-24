@@ -4,7 +4,7 @@ MSc student in AI & Bioinformatics at University of Zurich, working at Functiona
 
 ## Contact
 
-- Work: rodomi@ethz.ch | ronal.domi@uzh.ch
+- Work: rodomi@ethz.ch | ronald.domi@uzh.ch
 - Personal: ronalddomi4@gmail.com
 - LinkedIn: [linkedin.com/in/ronald-domi](https://www.linkedin.com/in/ronald-domi/)
 

@@ -1,6 +1,3 @@
-#### MSc student in AI & Bioinformatics at University of Zurich, working at Functional Genomics Center Zurich (part-time).
-I have experience across a wide range of areas including AI/ML, full-stack development, automated testing, and theoretical computer science. I work effectively both in teams and independently, capable of taking projects from conception to completion. Humble user of vim.  
-
 ## Contact
 - Work: rodomi@ethz.ch | ronald.domi@uzh.ch
 - Personal: ronalddomi4@gmail.com

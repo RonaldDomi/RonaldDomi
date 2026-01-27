@@ -8,7 +8,7 @@
 - Audio processing pipeline for multivariate correlation analysis
 - ML-based audio spoof detection training. 
 - Legacy code modernization with Next.js and FastAPI
-- [GEO Uploader](https://github.com/fgcz/geo-uploader) - Tool for GEO database submissions | [Paper](https://github.com/RonaldDomi/RonaldDomi/blob/main/Geo%20Uploader%20Paper.pdf)
+- [GEO Uploader](https://github.com/fgcz/geo-uploader) - Tool for GEO database submissions | [Paper](https://ronalddomi.github.io/RonaldDomi/Geo%20Uploader%20Paper.pdf)
 - ML Image segmentation for cell nucleus analysis
 - Compiler implementation (C)
 - Python interpreter implementation

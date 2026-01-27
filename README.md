@@ -9,7 +9,7 @@
 - ML-based audio spoof detection training. 
 - Legacy code modernization with Next.js and FastAPI
 - [GEO Uploader](https://github.com/fgcz/geo-uploader) - Tool for GEO database submissions | [Paper](https://ronalddomi.github.io/RonaldDomi/Geo%20Uploader%20Paper.pdf)
-- [ML Image segmentation for cell nucleus analysis](https://github.com/RonaldDomi/Cell-Nucleus-Segmentation) | [Presentation](https://github.com/RonaldDomi/Cell-Nucleus-Segmentation/blob/master/Presentation.pdf)
+- ML [Image segmentation](https://github.com/RonaldDomi/Cell-Nucleus-Segmentation) for cell nucleus analysis | [Presentation](https://ronalddomi.github.io/Cell-Nucleus-Segmentation/Presentation.pdf)
 - Compiler implementation (C)
 - Python interpreter implementation
 - Personal cooking app developed with Flutter during Covid. 

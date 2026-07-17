@@ -13,5 +13,3 @@
 - Audio processing pipeline for multivariate correlation analysis | [Report](https://ronalddomi.github.io/RonaldDomi/MultiCorr_Report.pdf)
 - Compiler implementation (C)
 - Python interpreter implementation
-- Fullstack modernization with Next.js and FastAPI (in development) 
-
